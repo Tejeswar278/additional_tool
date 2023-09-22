@@ -29,3 +29,23 @@
   height: 50%;
   background-color: rgba(0,0,0,.5);
 }
+
+.content {
+  margin-top: 250px ;
+}
+
+.contentcontainer {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.content > p {
+  width: 80%;
+  text-align: center;
+}
+
+.btmimg {
+  bottom: 0;
+  left: 0;
+  margin-bottom: 0px;
+}
